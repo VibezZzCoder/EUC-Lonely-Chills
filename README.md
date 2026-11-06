@@ -9,19 +9,20 @@ ride again.* A browser game by **Edwin RodMen**.
 No download and no account needed: it is made for a current web browser on a
 computer, a phone or a tablet.
 
-<p align="center"><img src="media/title.png" width="760" alt="The title screen: the EUC Lonely Chills wordmark and its menu over Hushwater Isle"></p>
+<p align="center"><img src="media/title.png" width="760" alt="The title screen: the EUC Lonely Chills wordmark and its menu beside the rider standing on First Light's trail in the morning"></p>
 
-> **Version 0.9.0: an early version.** Six trails on one island, every
+> **Version 0.10.0: an early version.** Six trails on one island, every
 > one with checkpoints; three have marked shortcuts and four hide lines to
 > find. Four medals to earn on each trail, a ghost of your best run and free
 > ride. More will change as the game grows.
 
 ## How to ride
 
-**Point where you want to go.** Push the stick, the keys or your thumb toward
-where you want the rider to go, as seen from the camera, and the wheel leans,
-carves and follows. Push further to go faster. Let go and it rolls to a stop;
-pull back against your direction to brake hard.
+**Point where you want to go.** Hold the mouse button or a finger on the spot
+where you want the rider to go, or push the stick or the keys that way, as
+seen on screen, and the wheel leans, carves and follows. Further from the
+rider (or a stick pushed further) is faster. Let go and it rolls to a stop;
+point back against the way you are riding to brake hard.
 
 **Read the ground.** Fast corners need room: brake before the turn, not in
 it. Loose ground (gravel, leaves, sand, snow and ice) slides, rock grips, and
@@ -44,29 +45,36 @@ island is yours.
 
 ## Controls
 
-| Action | Keyboard | Controller |
-|---|---|---|
-| Ride (point where you want to go) | **W A S D** or the **arrow keys** | Left stick (push further to go faster) or the D-pad |
-| Hop | **Space** or **J** | **A** (✕ on PlayStation) |
-| Brake (hold) | **Shift** or **X** | **B**, **X**, **LT** or **RT** |
-| Back to the last checkpoint | **R** | **Y** (△) |
-| Restart the run | **T** | **Back** / **View** |
-| Pause | **Esc** or **P** | **Start** / **Menu** |
-| Menus | Arrows or **W A S D**, **Enter** or **Space** to choose, **Esc** to go back | D-pad or stick, **A** to choose, **B** to go back |
+| Action | Mouse (Point steering) | Keyboard | Controller |
+|---|---|---|---|
+| Ride (point where you want to go) | Hold the **left button** there (further from the rider is faster) | **W A S D** or the **arrow keys** | Left stick (push further to go faster) or the D-pad; **RT** rides on |
+| Brake | Hold **behind** the rider, against the way they ride (let go to roll to a stop) | Point back the other way (let go to roll to a stop) | **LT**, or point the stick back |
+| Hop | Click the **right button** (or the wheel, which hops on the press) | **Space** or **J** | **A** (✕ on PlayStation) |
+| Charge a bigger hop | Hold the **right button**, let go to hop | Hold **Shift** or **X** | Hold **LB** or **X** (□) |
+| Back to the last checkpoint | The **⚑** chip at the bottom | **R** | **Y** (△) |
+| Restart the run | Hold the **↻** chip | **T** | **Back** / **View** |
+| Pause | The **II** chip | **Esc** or **P** | **Start** / **Menu** |
+| Menus | Click | Arrows or **W A S D**, **Enter** or **Space** to choose, **Esc** to go back | D-pad or stick, **A** to choose, **B** to go back |
 
-<img src="media/phone-portrait.png" width="230" align="right" alt="Riding on a phone held upright: the rider on the trail, the time at the top and the HOP, BRAKE and checkpoint buttons at the bottom right">
+<img src="media/phone-portrait.png" width="230" align="right" alt="Riding on a phone held upright in the Island view: the trail running up the screen with the rider small on it, the time and speed at the top, HOP and CHARGE at the bottom right and the pause, checkpoint and restart chips at the bottom centre; no stick">
 
-**On a touch screen**, touch and drag on the left side of the screen: the
-stick appears under your thumb, and it follows your thumb if you drag past
-its edge. **HOP** and **BRAKE** sit at the bottom right, with **↺** for the
-last checkpoint above them, and **II** at the top left pauses. Phones work
-upright or sideways.
+**On a touch screen**, hold a finger anywhere on the view where you want
+the rider to go: further from the rider is faster, and a ring shows where
+you are holding. **HOP** and **CHARGE** sit at the bottom right (hold
+CHARGE, then tap HOP or slide onto it, for a bigger hop), and the chips at
+the bottom centre pause, go back to the last checkpoint and, held,
+restart the run. Phones work upright or sideways.
 
-**Settings** let you change the quality (*Auto* adapts to your device; or
-Low, Medium, High: the riding is the same at every setting), the volume, the
-nature sounds and the wheel and effects, the steering (*point where to go*,
-or *carve left / right* relative to the rider), the camera distance, the
-speedometer and a performance readout.
+**Settings** let you change the steering (*Point*, the default, or
+*Thrills*: up rides, down brakes then reverses, sideways carves, with a
+touch stick under the left thumb), the view (*Island*, a high view over the
+trail, or *Behind*, close behind the rider), the camera distance, the
+quality (*Auto* adapts to your device; or Low, Medium, High: the riding is
+the same at every setting), a miniature blur that softens the Island view
+above and below the rider (on; not drawn at Low), motion blur (off), the
+speed units, the speedometer, a performance readout and the volumes of the
+wheel and effects and the nature sounds. Under *Thrills* the mouse works the
+menus only.
 
 <br clear="right">
 
@@ -83,7 +91,7 @@ You start on First Light; finishing a trail opens the next ones.
 little tarn. Learn to lean, learn to carve, look for the cut across the
 slope. Finishing it opens Pinehollow and Saltwind.
 
-<p align="center"><img src="media/first-light.png" width="760" alt="First Light: the rider on a hardpack trail across an alpine meadow in the morning"></p>
+<p align="center"><img src="media/first-light.png" width="760" alt="First Light from the Island view: the rider small on a hardpack trail across an alpine meadow, flowers, shrubs and stones beside it"></p>
 
 ### Pinehollow
 
@@ -91,7 +99,7 @@ slope. Finishing it opens Pinehollow and Saltwind.
 dark switchbacks under tall pines. Roots, a creek and a chute the locals
 swear is rideable. Opens Ember Run.
 
-<p align="center"><img src="media/pinehollow.png" width="760" alt="Pinehollow: the rider on a dirt trail among tall pines, a fire lookout on the ridge, under an overcast sky"></p>
+<p align="center"><img src="media/pinehollow.png" width="760" alt="Pinehollow from the Island view: the rider on a curving dirt trail between pines and ferns, under an overcast sky"></p>
 
 ### Saltwind
 
@@ -99,7 +107,7 @@ swear is rideable. Opens Ember Run.
 sea, the lighthouse ahead: a boardwalk over the dunes and a long run of
 beach to the finish. Opens Redstone.
 
-<p align="center"><img src="media/saltwind.png" width="760" alt="Saltwind: the rider on the coast path through the dunes at dusk, the sea beyond"></p>
+<p align="center"><img src="media/saltwind.png" width="760" alt="Saltwind from the Island view: the rider on the coast path through dune grass and shrubs at dusk"></p>
 
 ### Ember Run
 
@@ -107,7 +115,7 @@ beach to the finish. Opens Redstone.
 through birch and maple. Leaves hide the grip, and a brook hides the fastest
 line. Opens Frostline.
 
-<p align="center"><img src="media/ember-run.png" width="760" alt="Ember Run: the rider on a trail through autumn woods in golden light"></p>
+<p align="center"><img src="media/ember-run.png" width="760" alt="Ember Run from the Island view: the rider on a bend through autumn woods in golden light, orange ferns and a pine in front"></p>
 
 ### Redstone
 
@@ -115,7 +123,7 @@ line. Opens Frostline.
 between the mesas, a grassy saddle halfway. Sand is slow; rock is fast;
 ledges are honest. Opens Frostline.
 
-<p align="center"><img src="media/redstone.png" width="760" alt="Redstone: the rider in a sandy wash between red-rock slopes at noon"></p>
+<p align="center"><img src="media/redstone.png" width="760" alt="Redstone from the Island view: the rider on a pale trail across red-rock ground at noon, boulders and shrubs beside it"></p>
 
 ### Frostline
 
@@ -123,7 +131,7 @@ ledges are honest. Opens Frostline.
 snow and ice, then down into the first pines. Brake early. Then brake
 earlier.
 
-<p align="center"><img src="media/frostline.png" width="760" alt="Frostline: the rider on a snow trail below the summit, an arrow post at the turn"></p>
+<p align="center"><img src="media/frostline.png" width="760" alt="Frostline from the Island view: the rider on a packed snow trail among snowy rocks below the summit"></p>
 
 ## The riders
 
