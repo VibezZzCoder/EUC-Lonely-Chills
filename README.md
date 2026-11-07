@@ -11,7 +11,7 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the EUC Lonely Chills wordmark and its menu beside the rider standing on First Light's trail in the morning"></p>
 
-> **Version 0.10.0: an early version.** Six trails on one island, every
+> **Version 0.11.0: an early version.** Six trails on one island, every
 > one with checkpoints; three have marked shortcuts and four hide lines to
 > find. Four medals to earn on each trail, a ghost of your best run and free
 > ride. More will change as the game grows.
@@ -33,13 +33,13 @@ Hop over roots, rocks and small gaps.
 ribbon posts mark a shortcut, and most hide a line that you have to spot in
 the terrain yourself. Lines you have found show on the trail map.
 
-**Crash, then ride again.** Falls are part of it. Any input puts you straight
-back on the wheel at the last checkpoint, or wait a moment and it happens by
-itself. There are no lives and no game over.
+**Crash, then ride again.** Falls are part of it. Tap, click or press twice
+(or use the checkpoint button) to get straight back on the wheel at the last
+checkpoint, or watch the crash play out and it happens by itself. There are no lives and no game over.
 
 **Medals and trails.** Finishing a trail opens the next ones. Each trail has
 four medals: *Finished*, *Flow* (three falls or fewer), *Clean* (no falls)
-and *Fast* (beat the trail's target time). A ghost of your best run rides
+and *Fast* (a clean run under the trail's target time). A ghost of your best run rides
 with you, and **Free ride** takes the clock and the gates away: the whole
 island is yours.
 
@@ -65,7 +65,8 @@ CHARGE, then tap HOP or slide onto it, for a bigger hop), and the chips at
 the bottom centre pause, go back to the last checkpoint and, held,
 restart the run. Phones work upright or sideways.
 
-**Settings** let you change the steering (*Point*, the default, or
+The game is made for *Point* steering and the *Island* view; the other
+ways stay in Settings as options. **Settings** let you change the steering (*Point*, the default, or
 *Thrills*: up rides, down brakes then reverses, sideways carves, with a
 touch stick under the left thumb), the view (*Island*, a high view over the
 trail, or *Behind*, close behind the rider), the camera distance, the
