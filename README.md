@@ -11,10 +11,10 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the EUC Lonely Chills wordmark and its menu beside the rider standing on First Light's trail in the morning"></p>
 
-> **Version 0.11.0: an early version.** Six trails on one island, every
+> **Version 1.0.0.** Six trails on one island, every
 > one with checkpoints; three have marked shortcuts and four hide lines to
 > find. Four medals to earn on each trail, a ghost of your best run and free
-> ride. More will change as the game grows.
+> ride.
 
 ## How to ride
 
@@ -37,7 +37,8 @@ the terrain yourself. Lines you have found show on the trail map.
 (or use the checkpoint button) to get straight back on the wheel at the last
 checkpoint, or watch the crash play out and it happens by itself. There are no lives and no game over.
 
-**Medals and trails.** Finishing a trail opens the next ones. Each trail has
+**Medals and trails.** Finishing a trail opens the next ones (the trail map
+says which trail opens a locked one, and takes you there). Each trail has
 four medals: *Finished*, *Flow* (three falls or fewer), *Clean* (no falls)
 and *Fast* (a clean run under the trail's target time). A ghost of your best run rides
 with you, and **Free ride** takes the clock and the gates away: the whole
@@ -193,8 +194,8 @@ here are the icons, drawn by the project's own code, and the screenshots in
   button.
 - **Stuck on the loading screen, or a message about the graphics device?**
   The game needs a current browser with WebGPU or WebGL 2. Reload the page,
-  or try an up-to-date Chrome or Edge. This version was tested in Chrome;
-  Safari and Firefox have not been checked with it yet.
+  or try an up-to-date Chrome or Edge. This version was tested in current
+  Chrome, Edge, Firefox and Safari, and in Safari on iPhone and iPad.
 
 ## Credits
 
