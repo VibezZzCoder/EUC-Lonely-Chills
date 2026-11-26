@@ -11,7 +11,7 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the EUC Lonely Chills wordmark and its menu beside the rider standing on First Light's trail in the morning"></p>
 
-> **Version 1.0.1.** Six trails on one island, every
+> **Version 1.0.2.** Six trails on one island, every
 > one with checkpoints; three have marked shortcuts and four hide lines to
 > find. Four medals to earn on each trail, a ghost of your best run and free
 > ride.
@@ -194,8 +194,7 @@ here are the icons, drawn by the project's own code, and the screenshots in
   button.
 - **Stuck on the loading screen, or a message about the graphics device?**
   The game needs a current browser with WebGPU or WebGL 2. Reload the page,
-  or try an up-to-date Chrome or Edge. This version was tested in current
-  Chrome, Edge, Firefox and Safari, and in Safari on iPhone and iPad.
+  or try an up-to-date Chrome or Edge.
 
 ## Credits
 
